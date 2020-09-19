@@ -1,5 +1,5 @@
 {
-  "name": "personalportfolio",
+  "name": "raghav-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,5 +26,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "My portfolio",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghav1603/raghavs-portfolio-1603.git"
+  },
+  "author": "raghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghav1603/raghavs-portfolio-1603/issues"
+  },
+  "homepage": "https://github.com/raghav1603/raghavs-portfolio-1603#readme"
 }
